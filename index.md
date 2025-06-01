@@ -1,12 +1,3 @@
----
-layout: page
-title: title
-tagline: tagline
-description: This is a description
----
-
-Hello World!
-
 <!doctype html>
 <html lang="en">
   <head>
